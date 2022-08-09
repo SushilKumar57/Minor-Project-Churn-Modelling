@@ -5,6 +5,7 @@ Jinja2
 MarkupSafe
 Werkzeug
 numpy
+pandas
 scipy
 scikit-learn
 matplotlib
