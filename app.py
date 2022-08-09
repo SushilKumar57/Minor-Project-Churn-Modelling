@@ -7,7 +7,7 @@ Created on Wed Aug 10 00:25:16 2022
 
 import numpy as np
 from flask import Flask, request, jsonify, render_template
-
+import pandas as pd
 import pickle
 
 
